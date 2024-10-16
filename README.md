@@ -7,4 +7,4 @@ Password manager that can :
 
 Run ./app.py while having installed all dependencies in requirements.txt
 
-WARNING : Others are for a graphic user interface, do not bother, work in progress
+WARNING : gui.py, encryption.py, database.py and passwords.json are for a graphic user interface which is not available yet, work in progress
