@@ -1,4 +1,4 @@
-Made for myself, for safety reason, only in command line
+Made for myself, for security reason, only in command line
 
 This password manager can :
 - Add, edit and delete credentials
