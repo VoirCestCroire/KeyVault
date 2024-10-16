@@ -5,6 +5,6 @@ Password manager that can :
 - Generate passwords
 - Encrypt and decrypt passwords using AES-CBC
 
-Run ./app.py while having installed all dependencies in requirements.txt
+Run ./app.py while having installed all dependencies in requirements.txt using pip install requirements.txt
 
 WARNING : gui.py, encryption.py, database.py and passwords.json are for a graphic user interface which is not available yet, work in progress
