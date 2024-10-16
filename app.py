@@ -5,7 +5,7 @@ import sys
 import shutil
 import random
 import string
-from getpass import getpass 		# if getpass not found, try "from getpass4 import getpass"
+from getpass import getpass 
 from tabulate import tabulate
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad
