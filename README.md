@@ -1,4 +1,5 @@
 Made for myself, for safety reason, only in command line
+
 This password manager can :
 - Add, edit and delete credentials
 - Back up and erase passwords database
