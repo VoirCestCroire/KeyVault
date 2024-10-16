@@ -4,7 +4,7 @@ This password manager can :
 - Back up and erase passwords database
 - Change login password
 - Generate passwords
-- Encrypt and decrypt passwords using AES-CBC
+- Encrypt and decrypt passwords using AES-CBC with SHA256
 
 Run ./app.py while having installed all dependencies in requirements.txt using pip install requirements.txt
 
